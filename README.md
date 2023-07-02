@@ -16,7 +16,7 @@ Goal | Item | Link to Item
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/Cuteboy1110/GettingAndCleaningData/blob/main/run_analysis.R)
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/Cuteboy1110/GettingAndCleaningData/blob/main/tidyData.csv)
 Github Repo | Repo |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data "Click to go to Repo")
-Codebook | CodeBook.md |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md "CodeBook.md")
+Codebook | CodeBook.md |  [Repo Link](https://github.com/Cuteboy1110/GettingAndCleaningData/blob/main/CodeBook.md)
 README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md "README.md")
 
 ## Contributors
